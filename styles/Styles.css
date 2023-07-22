@@ -1,0 +1,173 @@
+.headingstyle{ 
+    margin-top: 70px;
+    margin-left: 80px;
+    font-size:70px;
+
+} 
+
+.heading2style{ 
+    
+    margin-left: 60px;
+    font-size:20px;
+
+} 
+
+
+.herofont{
+    font-family: Inter;
+       
+      
+}
+
+.heropic{
+   
+
+
+
+
+border-radius: 0px;
+/* position: absolute; */
+
+
+}
+.featurestyle{
+
+/* bg */
+
+position: absolute;
+
+
+background: linear-gradient(0deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12)), #191A1B;
+box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.14), 0px 3px 14px rgba(0, 0, 0, 0.12), 0px 5px 5px rgba(0, 0, 0, 0.2);
+border-radius: 16px;
+
+}
+
+.featurestylecopy{
+
+    /* bg */
+    
+    
+    
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12)), #191A1B;
+    box-shadow: 0px 15px 15px rgba(0, 0, 0, 0.14), 0px 3px 14px rgba(0, 0, 0, 0.12), 0px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 16px;
+    
+    }
+
+    .featurestylecopy2{
+
+        /* bg */
+        
+        
+        
+        background: linear-gradient(0deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.12)), #191A1B;
+        box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.14), 0px 3px 14px rgba(0, 0, 0, 0.12), 0px 5px 5px rgba(0, 0, 0, 0.2);
+        border-radius: 20px;
+        
+        }
+
+
+
+
+
+    
+
+
+.parent-container {
+        display: flex;
+        flex-wrap: wrap;
+  
+      }
+      
+.child-box {
+        width: 200px;
+        height: 200px;
+        margin: 10px;
+      }
+      
+
+      
+
+
+
+
+.featuremain{
+    position: relative;
+width: "full";
+height: 1818px;
+}
+
+.featuremain2{
+    position: relative;
+width: "full";
+
+}
+
+.textfeature{
+
+    font-family: Inter;
+
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 1px;
+text-align: center;
+
+
+}
+
+.textfeature2{
+
+    font-family: Inter;
+
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top:7px;
+
+}
+.textfeature3{
+
+    font-family: Inter;
+
+    font-weight: 410;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 11px;    
+
+}
+
+.textfeature4{
+
+    font-family: Inter;
+
+ 
+    line-height: 23px;
+    text-align: center;
+    margin-top: 11px;    
+
+}
+
+.shadownstyle{
+
+    position:"absolute";
+}
+.featurepicstyle{
+    position:"absolute";
+
+}
+
+
+::-webkit-scrollbar {
+    width: 8px;
+    background-color: #191A1B;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: red;
+    border-radius: 4px;
+  }
